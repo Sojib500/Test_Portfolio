@@ -279,7 +279,203 @@ margin-top: 20px;
   color: #93959F;
 }
 
+.Project_list h1 {
+margin-left: -4px;
+ }
 
-
-{
+.Project_list a{
+  margin-left: 30px;
+  color: #1B2BDF;
+  font-size: 20px;
 }
+.Project_list h3{
+  margin-left:120px;
+  font-size: 18px;
+  margin-top: -18px;
+  font-size: 20px;
+}
+.Project_list h4{
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.project_img img{
+  margin-top: 20px;
+  width: auto;
+  height: 320px;
+  border-radius: 10px;
+  margin-left: 30px;
+  
+}
+.Team_Member h1{
+  font-size: 30px;
+  margin-left: -15px;
+}
+.btn4{
+  background-color:#484EDD;
+  color:#fff;
+  font-size: 19px;
+  margin-top: 0px;
+  padding: 15px 50px;
+  margin-left: 25px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  text-decoration: none;
+  display:block;
+  overflow: hidden;
+}
+.Team_Member img{
+  margin-top: 20px;
+  width: 300px;
+  height: 340px;
+  border-radius: 10px;
+  margin-left: 35px;
+}
+.test img{
+  margin-top: 0px;
+  height: 80px;
+  width: 80px;
+  margin-left: 150px;
+  border: 2px solid #D97506;
+  border-radius: 50px;
+}
+.test h1{
+  font-size: 35px;
+  text-align: center;
+  margin-top: 100px;
+}
+.test h3{
+  font-size: 20px;
+  word-spacing: 3px;
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  color:#73747B;
+}
+.test h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+.test h4{
+  margin-top: 5px;
+  text-align: center;
+  color:#8C8680;
+}
+.merbel1{
+ height: 20px;
+ width: 20px;
+ background-color:#15DC61;
+ border-radius: 50px;
+ margin-left: 140px;
+ margin-top: 50px;
+ border: 3px solid #D91212;
+ }
+ .merbel2{
+ height: 20px;
+ width: 20px;
+ background-color:#3815DC;
+ border-radius: 50px;
+ margin-left: 170px;
+ margin-top: -25px;
+ border: 3px solid #D91212;
+ }
+ .merbel3{
+ height: 20px;
+ width: 20px;
+ background-color:#FFCE04;
+ border-radius: 50px;
+ margin-left: 200px;
+ margin-top: -25px;
+ border: 3px solid #D91212;
+ }
+ .Location h1{
+  margin-top: 80px; 
+  font-size: 35px;
+ }
+ .btn5{
+   background-color:#484EDD;
+   color:#fff;
+   font-size: 19px;
+   margin-top: 0px;
+   padding: 15px 50px;
+   margin-left: 50px;
+   border-radius: 10px;
+   border: 1px solid #fff;
+   text-decoration: none;
+   display:block;
+   overflow: hidden;
+ }
+ .Location_pase p{
+   font-size: 20px;
+   margin-top: 50px;
+   margin-left: 50px;
+   color:#B0A9AF;
+ }
+ .Location_pase h2{
+   font-size: 25px;
+   margin-top: 15px;
+   margin-left: 50px;
+ }
+ .underline{
+   height: 2px;
+   width: 300px;
+   background-color:#000000;
+   margin-top: 10px;
+   display: block;
+   margin-bottom: -20px;
+   margin-left: 50px;
+ }
+ .Location_pase h3{
+   margin-top: 40px;
+   margin-left: 50px;
+   color: #B0A9AF;
+ }
+ .Follow_icon img{
+   height: 20px;
+   width: 20px;
+   color: #fff;
+   background-color: #726F79;
+   margin-left: 50px;
+   border-radius: 5px;
+   padding: 10px;
+   margin-right: -40px;
+   margin-top: 20px;
+ } 
+ .Follow_icon p{
+   margin-top: 70px;
+   font-size: 20px;
+   margin-left: 50px;
+   color:#7C7D87;
+   margin-left: 50px;
+   word-spacing: 4px;
+ }
+ .Contact_From input{
+   margin-top: 40px;
+   width: 270px;
+   font-size: 18px;
+   padding: 20px;
+   margin-left: 50px;
+   border-radius: 10px;
+   border: 1px solid #7C7D87;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ }
+ .btn6{
+   background-color:#484EDD;
+   color:#fff;
+   font-size: 19px;
+   margin-top: 10px;
+   padding: 15px 40px;
+   margin-left: 50px;
+   border-radius: 10px;
+   border: 1px solid #fff;
+   text-decoration: none;
+   display:block;
+   overflow: hidden;
+ }
+ .further{
+   height: 200px;
+   width: auto;
+   background-color: #222620;
+   margin-top: 40px;
+ }
